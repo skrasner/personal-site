@@ -1,9 +1,13 @@
 name: "Scottys-Website"
 output_dir: "."
 navbar:
-  title: "Scotty's Interweb Page"
+  title: "Scotty Krasner"
   left: 
-  - text: "Home"
+  - text: "home"
     href: index.html
-  - text: "About Me"
+  - text: "about me"
     href: about.html
+  - text: "professional"
+    href: pro.html
+  - text: "adventures"
+    href: adv.html

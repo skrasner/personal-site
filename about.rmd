@@ -1,5 +1,7 @@
 ---
-title: "About Me"
 ---
+<br>
 
-I'm the coolest cat.
+# **About Me**
+<br>
+<img src = "images/ME2.jpg" height = "400px" width = "300px" />
