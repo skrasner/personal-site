@@ -1,0 +1,9 @@
+name: "Scottys-Website"
+output_dir: "."
+navbar:
+  title: "Scotty's Interweb Page"
+  left: 
+  - text: "Home"
+    href: index.html
+  - text: "About Me"
+    href: about.html
